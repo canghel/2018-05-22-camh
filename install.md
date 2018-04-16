@@ -1,8 +1,6 @@
 ---
-layout: setup
-root: .
-assistant: []
-contact: admin@datacarpentry.org
+layout: page
+title: Software Requirements
 ---
 <!--
     Edit the values in the parameter block above to be appropriate for your bootcamp.
