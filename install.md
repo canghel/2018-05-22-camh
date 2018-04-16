@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Software Requirements
 ---
 <!--
     Edit the values in the parameter block above to be appropriate for your bootcamp.
@@ -15,12 +14,7 @@ Data Carpentry's teaching is hands-on, so participants are encouraged to bring i
 
 
   <strong>Contact</strong>:
-  Please email
-  {% if page.contact %}
-    <a href='mailto:{{page.contact}}'>{{page.contact}}</a>
-  {% else %}
-    <a href='mailto:{{site.contact}}'>{{site.contact}}</a>
-  {% endif %}
+  Please email <a href='mailto:{{catalina.anghel@alum.utoronto.ca}}'>{{catalina.anghel@alum.utoronto.ca}}</a>
   for questions and information not covered here.
 </p>
 
