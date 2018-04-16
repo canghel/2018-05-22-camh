@@ -234,35 +234,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
-<!-- 
-{% comment %}
-  SYLLABUS
-
-  Show what topics will be covered.
-
-  1. If your workshop is R rather than Python, remove the comment
-     around that section and put a comment around the Python section.
-  2. Some workshops will delete SQL.
-  3. Please make sure the list of topics is synchronized with what you
-     intend to teach.
-  4. You may need to move the div's with class="col-md-6" around inside
-     the div's with class="row" to balance the multi-column layout.
-
-  This is one of the places where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
-<h2 id="syllabus">Syllabus</h2>
-
-{% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/syllabus.html %}
-{% endif %}
-
-<hr/> -->
 
 <h2 id="setup">Setup</h2>
 
@@ -273,7 +244,7 @@ the installers) before the start of your workshop. Participants should bring and
 their own laptops to insure the proper setup of tools for an efficient workflow
 once you leave the workshop.
 <p>
-Please follow these <a href=install.html>Setup Instructions</a>.
+Please follow these <a href="https:/github.com/canghel/2018-05-22-camh/blob/gh-pages/install.html">Setup Instructions</a>.
 
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
