@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Software Requirements
 ---
 <!--
 Edit the values in the parameter block above to be appropriate for your bootcamp.
@@ -217,7 +218,7 @@ Your download should begin automatically.
 <p>
 
 </p>
-<p></li><li><b>R</b>
+</p></li><li><b>R</b>
   <br>In the workshop, we will use RStudio. RStudio is a nice interface to the 
   programming language R. To use RStudio, you need to install both R and RStudio.
   <ul>
@@ -231,7 +232,8 @@ Your download should begin automatically.
   </li><li>Once it's downloaded, double click the file to install it
   </li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
   </li></ul>
-</p>
+
+<p>
 
 <!-- <p></li><li><b>IGV</b>
   <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
@@ -353,11 +355,12 @@ and log in. Please register if you do not already have a login.
 <li>Click on the large button for the Download Binary Distribution
 <li>Find the zip archive on your computer and expand it
 <li>To run IGV, double-click on the IGV.bat file.
+</li>
 </ul>
-</p>
-</ol>
 
+</li></ol>
 </div>
+
 <!-- Le javascript
   ================================================== -->
   <!-- Placed at the end of the document so the pages load faster -->
