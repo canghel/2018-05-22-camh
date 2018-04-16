@@ -263,3 +263,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
+
+<h2 id="setup">Setup</h2>
+
+<p>
+To participate in a Data Carpentry workshop, you will need working copies of the
+described software. Please make sure to install everything (or at least to download
+the installers) before the start of your workshop. Participants should bring and use
+their own laptops to insure the proper setup of tools for an efficient workflow
+once you leave the workshop.
+<p>
+Please follow these <a href=install.html>Setup Instructions</a>.
+
+<p>
+  We maintain a list of common issues that occur during installation as a reference for instructors
+  that may be useful on the
+  <a href = "https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
