@@ -234,7 +234,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
-
+<!-- 
 {% comment %}
   SYLLABUS
 
@@ -262,7 +262,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% include lc/syllabus.html %}
 {% endif %}
 
-<hr/>
+<hr/> -->
 
 <h2 id="setup">Setup</h2>
 
