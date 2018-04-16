@@ -101,19 +101,40 @@ Please use three-letter month names for the 'humandate' field.
 <p>
 
 </p></li><li><b>R</b>
-  <br>In the workshop, we will use RStudio. RStudio is a nice interface to the 
-  programming language R. To use RStudio, you need to install both R and RStudio.
-  <ul>
-    <li>      Download R from
-    <a href="http://cran.r-project.org/bin/windows/base/release.htm">here</a>
-  </li><li>Run the .exe file that was just downloaded
-  </li><li>Go to the <a href="http://www.rstudio.com/ide/download/desktop">RStudio Download page</a>
-  </li><li>Under <i>Installers</i> select <b>RStudio 0.98.1103 - Windows XP/Vista/7/8</b>
-  </li><li>Double click the file to install it
-  </li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
-  </li></ul>
+<br>In the workshop, we will use RStudio. RStudio is a nice interface to the 
+programming language R. To use RStudio, you need to install both R and RStudio.
+<ul>
+  <li>      Download R from
+  <a href="http://cran.r-project.org/bin/windows/base/release.htm">here</a>
+</li><li>Run the .exe file that was just downloaded
+</li><li>Go to the <a href="http://www.rstudio.com/ide/download/desktop">RStudio Download page</a>
+</li><li>Under <i>Installers</i> select <b>RStudio 0.98.1103 - Windows XP/Vista/7/8</b>
+</li><li>Double click the file to install it
+</li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
+</li></ul>
 
-  <p>
+<p>
+
+</p></li><li><b>IGV</b>
+<br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
+looking at SAM and BAM files, SNPs, and variant calls.
+<ul>
+  <li>To download IGV, please visit 
+  <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
+  and log in. Please register if you do not already have a login.
+</li><li>Click on the large button for the Download Binary Distribution
+</li><li>Find the zip archive on your computer and expand it
+</li><li>To run IGV, double-click on the IGV.bat file.
+</li>
+</ul>
+
+</p></li></ol>
+</div>
+
+  
+<!--       </p></li></ol>
+    </div>
+ -->
 
 <!--
 <li><b>SQLite</b>
@@ -142,19 +163,6 @@ this page</a> to download Filezilla.
 <li>Please also follow the instruction here to configure Filezilla properly for 2FA.
 </ul>
 -->
-<li><b>IGV</b>
-  <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
-  looking at SAM and BAM files, SNPs, and variant calls.
-  <ul>
-    <li>To download IGV, please visit 
-      <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
-      and log in. Please register if you do not already have a login.
-      <li>Click on the large button for the Download Binary Distribution
-        <li>Find the zip archive on your computer and expand it
-          <li>To run IGV, double-click on the IGV.bat file.
-          </ul>
-        </p></li></ol>
-      </div>
 
 <h3 id="mac">Mac</h3>
 <p>
@@ -212,6 +220,7 @@ Your download should begin automatically.
   </li><li>Once it's installed, open RStudio to make sure it works and you don't get any error messages.
   </li></ul>
 </p>
+
 <p><li><b>IGV</b>
   <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
   looking at SAM and BAM files, SNPs, and variant calls.
