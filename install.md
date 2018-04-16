@@ -128,7 +128,7 @@ looking at SAM and BAM files, SNPs, and variant calls.
 </li>
 </ul>
 
-</p></li></ol>
+</li></ol>
 </div>
 
   
@@ -192,7 +192,7 @@ Your download should begin automatically.
 </li></ul>
 
 <p>
-  </p></li><li><b>FTP Client (Filezilla)</b>
+<!--   </p></li><li><b>FTP Client (Filezilla)</b>
     <br>An FTP client will help you transfer files easily between your computer and the cloud. 
     <ul>
     <li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download 
@@ -201,8 +201,20 @@ Your download should begin automatically.
 </li><li>To use it, double-click on the downloaded file
 </li><li>Follow any installation instructions, if any
 </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
+</li></ul> -->
+
+</p></li><li><b>FTP Client (Filezilla)</b>
+  <br>An FTP client will help you transfer files easily between your computer and the cloud. 
+  <ul>
+    <li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download 
+  page</a> 
+</li><li>Chose the download link appropriate to your system
+</li><li>To use it, double-click on the downloaded file
+</li><li>Follow any installation instructions, if any
+</li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
 </li></ul>
 
+<p>
 
 </p>
 <p></li><li><b>R</b>
@@ -221,7 +233,7 @@ Your download should begin automatically.
   </li></ul>
 </p>
 
-<p><li><b>IGV</b>
+<!-- <p></li><li><b>IGV</b>
   <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
   looking at SAM and BAM files, SNPs, and variant calls.
   <ul>
@@ -235,61 +247,81 @@ Your download should begin automatically.
         </p>
       </p></li></ol></div>
 
+<p> -->
 
-    <h3 id="linux">Linux</h3>
-    <p>
-    Please go through all the installation steps below and make sure that 
-    you not only installed them, but start them up to make sure they're working. 
-    If you have any problems, don't hesitate to email the instructors to 
-    ask for help, or arrive early on the first day of the workshop to 
-    get help.
+</p></li><li><b>IGV</b>
+<br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
+looking at SAM and BAM files, SNPs, and variant calls.
+<ul>
+  <li>To download IGV, please visit 
+  <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
+  and log in. Please register if you do not already have a login.
+</li><li>Click on the large button for the Download Binary Distribution
+</li><li>Find the zip archive on your computer and expand it
+</li><li>To run IGV, double-click on the IGV.bat file.
+</li>
+</ul>
 
-  </p><div class="row-fluid">
-    <ol>
-    <li><b>A spreadsheet program</b>
-    <br>For this workshop you will need a spreadsheet program. Many people already have 
-    Microsoft Excel installed, and if you do, you're set! 
-    <br>
-    If you need a spreadsheet 
-    program, there are a few other options, like OpenOffice and LibreOffice. Install 
-    instructions for LibreOffice, which is free and open source, are here.
-    <ul>
-    <li><b>Download the Installer</b>
-    <br>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/libreoffice-fresh/">installation page</a>. The version for Linux 
-    should automatically be selected. Click <b>Download Version 4.4.2</b>. You 
-    will go to a page that asks about a donation, but you don't need to make one.
-    Your download should begin automatically. 
-  </li><li><b>Install LibreOffice</b>
-    <br>Once the installer is downloaded, double click on it and it should install.
-  </li><li>To use LibreOffice, double click on the icon and it will open.
-  </li></ul>
+</li></ol>
+</div>
+
+
+<h3 id="linux">Linux</h3>
+<p>
+Please go through all the installation steps below and make sure that 
+you not only installed them, but start them up to make sure they're working. 
+If you have any problems, don't hesitate to email the instructors to 
+ask for help, or arrive early on the first day of the workshop to 
+get help.
+
+</p><div class="row-fluid">
+<ol>
+<li><b>A spreadsheet program</b>
+<br>For this workshop you will need a spreadsheet program. Many people already have 
+Microsoft Excel installed, and if you do, you're set! 
+<br>
+If you need a spreadsheet 
+program, there are a few other options, like OpenOffice and LibreOffice. Install 
+instructions for LibreOffice, which is free and open source, are here.
+<ul>
+<li><b>Download the Installer</b>
+<br>Install LibreOffice by going to the <a href="https://www.libreoffice.org/download/libreoffice-fresh/">installation page</a>. The version for Linux 
+should automatically be selected. Click <b>Download Version 4.4.2</b>. You 
+will go to a page that asks about a donation, but you don't need to make one.
+Your download should begin automatically. 
+</li><li><b>Install LibreOffice</b>
+<br>Once the installer is downloaded, double click on it and it should install.
+</li><li>To use LibreOffice, double click on the icon and it will open.
+</li></ul>
+
+<p>
+
 </p></li><li><b>FTP Client (Filezilla)</b>
   <br>An FTP client will help you transfer files easily between your computer and the cloud. 
   <ul>
     <li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download 
-    page</a> 
-  </li><li>Chose the download link appropriate to your system
-  </li><li>To use it, double-click on the downloaded file
-  </li><li>Follow any installation instructions, if any
-  </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
-  </li></ul>
+  page</a> 
+</li><li>Chose the download link appropriate to your system
+</li><li>To use it, double-click on the downloaded file
+</li><li>Follow any installation instructions, if any
+</li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
+</li></ul>
+
+<p>
 
 
-<p><li><b>IGV</b>
-<br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
-looking at SAM and BAM files, SNPs, and variant calls.
+<!-- </p></li><li><b>FTP Client (Filezilla)</b>
+<br>An FTP client will help you transfer files easily between your computer and the cloud. 
 <ul>
-<li>To download IGV, please visit 
-<a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
-and log in. Please register if you do not already have a login.
-<li>Click on the large button for the Download Binary Distribution
-<li>Find the zip archive on your computer and expand it
-<li>To run IGV, double-click on the IGV.bat file.
-</ul>
-</p>
+<li>Go to the Filezila <a href="https://filezilla-project.org/download.php?show_all=1">download 
+page</a> 
+</li><li>Chose the download link appropriate to your system
+</li><li>To use it, double-click on the downloaded file
+</li><li>Follow any installation instructions, if any
+</li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
+</li></ul> -->
 
-
-</p><p>
+<p> 
 
 </p></li><li><b>R</b>
 <br>In the workshop, we will use RStudio. RStudio is a nice interface to the 
