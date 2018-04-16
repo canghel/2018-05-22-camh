@@ -217,7 +217,6 @@ Your download should begin automatically.
 
 <p>
 
-</p>
 </p></li><li><b>R</b>
   <br>In the workshop, we will use RStudio. RStudio is a nice interface to the 
   programming language R. To use RStudio, you need to install both R and RStudio.
@@ -309,9 +308,6 @@ Your download should begin automatically.
 </li><li>At the workshop we will give you additional information (e.g. host, username, port) to connect
 </li></ul>
 
-<p>
-
-
 <!-- </p></li><li><b>FTP Client (Filezilla)</b>
 <br>An FTP client will help you transfer files easily between your computer and the cloud. 
 <ul>
@@ -344,8 +340,7 @@ run <code>sudo apt-get install r-base</code> and for Fedora run
 <p>
 
 
-</p></li>
-<p><li><b>IGV</b>
+</p></li><li><b>IGV</b>
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
@@ -357,14 +352,6 @@ and log in. Please register if you do not already have a login.
 <li>To run IGV, double-click on the IGV.bat file.
 </li>
 </ul>
-
-</li></ol>
+</li>
+</ol>
 </div>
-
-<!-- Le javascript
-  ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <script src="install_files/jquery-1.html"></script>
-  <script src="install_files/bootstrap.html"></script>
-
-</body></html>
