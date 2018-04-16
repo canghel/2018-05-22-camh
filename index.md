@@ -472,7 +472,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
           Library Carpentry
           {% endif %}
           Windows installer
-	</a>
+  </a>
         and double click on the file to run it.
         <strong>This installer requires an active internet connection.</strong>
       </p>
@@ -681,7 +681,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
           Library Carpentry
           {% endif %}
           Windows Installer
-	</a>
+  </a>
         installs SQLite for Windows.
         If you used the installer to configure nano, you don't need to run it again.
       </p>
