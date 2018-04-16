@@ -12,9 +12,9 @@ Data Carpentry's teaching is hands-on, so participants are encouraged to bring i
 <em> There are no pre-requisites, and we will assume no prior knowledge about the tools.</em> 
 </p>
 
-
+<p>
   <strong>Contact</strong>:
-  Please email <a href='mailto:{{catalina.anghel@alum.utoronto.ca}}'>{{catalina.anghel@alum.utoronto.ca}}</a>
+  Please email <a href="mailto:catalina.anghel@alum.utoronto.ca">catalina.anghel@alum.utoronto.ca</a></a>
   for questions and information not covered here.
 </p>
 
