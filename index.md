@@ -14,7 +14,7 @@ instructor: ["Heather Gibling", "Ahmed Hasan", "Catalina Anghel"] # boxed, comma
 helper: ["Erin Dickie", "Marcia Hon", "Ricardo Harripaul", "Nikola Bogetic "]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["david.rotenberg@camh.ca", "catalina.anghel@alum.utoronto.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite:  45236727269       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite:  "45236727269"       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -38,7 +38,7 @@ eventbrite:  45236727269       # optional: alphanumeric key for Eventbrite regis
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.ca/e/data-carpentry-genomics-workshop-tickets-45236727269"
+  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
   height="248px"
