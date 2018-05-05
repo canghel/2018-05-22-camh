@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "SciNet"       # brief name of host site without address (e.g., "Euphoric State University")
-address: "661 University Ave., Suite 1140, Toronto, Ontario M5G 1M1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Centre for Addiction and Mental Health (CAMH), hosted at SciNet"       # brief name of host site without address (e.g., "Euphoric State University")
+address: "SciNet, 661 University Ave., Suite 1140, Toronto, Ontario M5G 1M1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "ca"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "37.371427, -122.116828"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
