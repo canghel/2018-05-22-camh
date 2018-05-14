@@ -227,9 +227,11 @@ eventbrite:  "45236727269"       # optional: alphanumeric key for Eventbrite reg
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
+
 {% if page.collaborative_notes %}
+<h2 id="surveys">Etherpad</h2>
 <p id="collaborative_notes">
-  <strong>Etherpad</strong>: We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
 
