@@ -121,8 +121,7 @@ programming language R. To use RStudio, you need to install both R and RStudio.
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
   <li>To download IGV, please visit 
-  <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
-  and log in. Please register if you do not already have a login.
+<a href="https://software.broadinstitute.org/software/igv/download">this page</a>.  (You may need to log in on the <a href="https://www.broadinstitute.org/software/igv/log-in">login page</a>, but lately the login has not been working.)
 </li><li>Click on the large button for the Download Binary Distribution
 </li><li>Find the zip archive on your computer and expand it
 </li><li>To run IGV, double-click on the IGV.bat file.
@@ -254,9 +253,8 @@ Your download should begin automatically.
 <br>If time permits, we will use The Broad Institute's IGV (Integrated Genome Viewer) for
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
-  <li>To download IGV, please visit 
-  <a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
-  and log in. Please register if you do not already have a login.
+ <li>To download IGV, please visit 
+<a href="https://software.broadinstitute.org/software/igv/download">this page</a>.  (You may need to log in on the <a href="https://www.broadinstitute.org/software/igv/log-in">login page</a>, but lately the login has not been working.)
 </li><li>Click on the large button for the Download Binary Distribution
 </li><li>Find the zip archive on your computer and expand it
 </li><li>To run IGV, double-click on the IGV.bat file.
@@ -345,8 +343,7 @@ run <code>sudo apt-get install r-base</code> and for Fedora run
 looking at SAM and BAM files, SNPs, and variant calls.
 <ul>
 <li>To download IGV, please visit 
-<a href="https://www.broadinstitute.org/software/igv/log-in">this page</a>
-and log in. Please register if you do not already have a login.
+<a href="https://software.broadinstitute.org/software/igv/download">this page</a>.  (You may need to log in on the <a href="https://www.broadinstitute.org/software/igv/log-in">login page</a>, but lately the login has not been working.)
 <li>Click on the large button for the Download Binary Distribution
 <li>Find the zip archive on your computer and expand it
 <li>To run IGV, double-click on the IGV.bat file.
